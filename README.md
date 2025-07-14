@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shekhar Rana</h1>
-<h3 align="center">MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
-
+<!-- 🌊 Animated Header -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shekhar-rana-1324s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Shekhar%20Rana&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Open+Source+Contributor;Problem+Solver;Building+Full-Stack+Web+Apps;Always+Learning+%F0%9F%93%9A" />
+</p>
+
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shekhar-rana-1324s/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shekharrana7075@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:shekharrana7075@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/shekharrana007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
