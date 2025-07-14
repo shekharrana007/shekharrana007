@@ -100,4 +100,56 @@ Lovely Professional University, Punjab (2022 - Present)
 </p>
 
 ---
+## 📌 Highlighted Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/shekharrana007/Affiliate-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharrana007&repo=Affiliate-&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shekharrana007/FertilizerOptimizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharrana007&repo=FertilizerOptimizer&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/shekharrana007/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharrana007&repo=portfolio&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shekharrana007/Frontend-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharrana007&repo=Frontend-project&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/shekharrana007/GFGcode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharrana007&repo=GFGcode&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shekharrana007/Leetcode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharrana007&repo=Leetcode&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekharrana007&theme=react-dark&hide_border=true&area=true&custom_title=GitHub+Contribution+Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekharrana007&theme=tokyonight" width="90%" />
+</p>
 
