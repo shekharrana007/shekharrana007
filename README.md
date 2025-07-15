@@ -79,22 +79,6 @@ An interactive, responsive shopping platform with React Router and modern UI/UX 
 
 ---
 
-### 📚 Education
-
-**Bachelor of Technology (B.Tech)** in Computer Science  
-Lovely Professional University, Punjab (2022 - Present)  
-📊 CGPA: 7.54
-
----
-
-### 📞 Contact Me
-
-- 📧 Email: shekharrana7075@gmail.com  
-- 🌐 Portfolio/GitHub: [github.com/shekharrana007](https://github.com/shekharrana007)  
-- 💼 LinkedIn: [linkedin.com/in/shekhar-rana-1324s](https://linkedin.com/in/shekhar-rana-1324s)  
-
----
-
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t work hard."</i>
 </p>
